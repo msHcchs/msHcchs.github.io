@@ -1,0 +1,55 @@
+body {
+    background-image: linear-gradient(to right, #7032db , #3235db);
+}
+h1 {
+    text-align:center;
+    color:beige;
+}
+.content {
+    background-color:#2832c2 ;
+    margin:auto;
+    width:50%;
+}
+.video {
+    text-align:center;
+}
+h2 {
+    color:beige;
+    font-size:36px;
+}
+li {
+    color:bisque;
+}
+.ingredients {
+    color:rgb(255, 255, 255);
+}
+hr {
+    border-color:black 5px;
+}
+h3 {
+    color:#b3d7dd
+}
+iframe {
+    margin:0 auto;
+    display:block;
+}
+div {
+    border:ridge;
+}
+p {
+    color:#b3d7dd;
+    text-align:center;
+}
+.left {
+    position:sticky;
+    top:0;
+    float:left;
+}
+.right {
+    position:sticky;
+    top:0;
+    float:right;
+}
+ol {
+    font-size:24px;
+}

@@ -1,0 +1,48 @@
+img {
+    border: 5px dotted;
+    border-color:brown;
+    margin:3px;
+}
+
+body {
+    Font-family: cursive;
+}
+
+.cookie {
+    height:400px;
+    width:300px;
+}
+
+.dough {
+    height:285px;
+    width:200px;
+}
+
+.sheet {
+    float:center;
+    height:285px;
+    width:230px;
+}
+
+.bite {
+    float:center;
+    height:285px;
+    width:200px;
+}
+
+html {
+    Background-color:papayawhip;
+}
+
+h1 {
+    color:brown;
+}
+
+h2 {
+    color:brown;
+}
+
+iframe {
+    border: 5px dotted;
+    border-color:brown;
+}

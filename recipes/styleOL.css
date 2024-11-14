@@ -1,0 +1,76 @@
+﻿body {
+    background-image: linear-gradient(to right, #f2163b, #f5b5c0);
+}
+
+.header {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    color: #52151f;
+    text-shadow: 2px 2px #eb9ba0;
+}
+
+.content {
+    background-color: #a63c4d;
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+    border-style: double;
+    border-width: 10px;
+    border-color: white;
+    border-radius: 15px;
+}
+
+img {
+    margin: 10px;
+    height: 300px;
+    border-style: double;
+    border-width: 10px;
+    border-color: white;
+    border-radius: 15px;
+}
+
+@keyframes img-enlarge {
+    from {height:300px;}
+    to {height:400px;}
+}
+
+img:hover {
+    animation-name:img-enlarge;
+    animation-duration:2s;
+}
+
+h1 {
+    font-size:40px;
+}
+
+h2 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #52151f;
+    text-shadow: 2px 2px #eb9ba0;
+}
+
+li {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color: #52151f;
+}
+
+hr {
+    border-color: #992538;
+    border-width: 10px;
+}
+
+iframe {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: block;
+}
+
+p {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #52151f;
+    font-size: 25px;
+}
