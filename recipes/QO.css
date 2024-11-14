@@ -1,0 +1,45 @@
+body {
+    height: 200px;
+    background-color:#242e01;
+    background-image: linear-gradient(to bottom right, rgb(47, 71, 3), rgb(172, 202, 1));
+
+}
+h1 {
+    color:rgb(8, 20, 3)
+    
+}
+.content {
+    background-color: rgb(74, 88, 50);
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+    border-width: 8px;
+    font-style: oblique;
+}
+h3 {
+    color:rgb(1, 48, 22);
+}
+h2 { 
+    border-style: outset;
+    border-color: rgb(255, 255, 255);
+    border-width: 4px;
+}
+ol {
+    color:rgb(8, 20, 3)
+    
+}
+li {
+    color:rgb(8, 20, 3)
+}
+p {
+    color:rgb(8, 20, 3)
+    
+}
+iframe {
+    margin:0 auto;
+    display:block;
+}
+img {
+    margin:0 auto;
+    display:block;
+}
+
