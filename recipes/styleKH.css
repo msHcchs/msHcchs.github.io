@@ -1,0 +1,21 @@
+﻿/*  My Color Palette
+    Green           #585123
+    Yellow1         #eec170
+    yellowOrange    #f2a65a
+    Orange          #f58549
+    Red             #772f1a
+    Parchment       #fefae0
+*/
+
+body {
+    background-color: #fefae0;
+    font-family: "Courier New", monospace;
+    color: #772f1a;
+}
+a {
+    color: #f58549;
+    font-weight: bold;
+}
+a:visited {
+    color: #585123;
+}
