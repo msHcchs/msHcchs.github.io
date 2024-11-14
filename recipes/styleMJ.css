@@ -1,0 +1,44 @@
+.instructions, h1, .ingrediants {
+    text-align:center;
+    font-family: 'Brush Script MT'
+}
+.pic{
+    border-radius:15px;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:dotted 8px #ffffff;
+}
+h3{
+    font-family: 'Brush Script MT'
+}
+body{
+    background-color:#aacdee;
+}
+ul, .steps{
+    background-color:white;
+    border-radius:15px;
+    margin:auto;
+    
+}
+.vid{
+    float:right;
+    border-radius:15px;
+    margin-right:200px;
+    float:top;
+    border:dotted 8px #aacdee;
+  
+}
+.why{
+    text-align:center;
+    font-family: 'Brush Script MT'
+}
+.pg{
+    background-color:white;
+    border-radius:15px;
+    margin:auto;
+    text-align:center;
+}
+.cred{
+    text-align:center;
+}
