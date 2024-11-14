@@ -1,0 +1,52 @@
+body {
+    background-color:whitesmoke;
+}
+
+.image {
+    width:700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    text-align: center;
+    font-size:xx-large
+}
+
+.cook-titles {
+    font-size: medium;
+}
+
+.cook-times {
+    font-size: xx-large;
+    font:bolder;
+}
+
+.times {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.initial-temp {
+    display: block;
+    margin-left: auto;
+}
+
+p {
+    text-align:center;
+}
+
+.video {
+    margin-left: 200px;
+    height:300px;
+    width:500px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading,.sub-heading {
+    text-decoration: underline;
+}

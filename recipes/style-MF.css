@@ -1,0 +1,42 @@
+img{
+    height:250px;
+    width:250px;
+}
+span, ol, h3{
+  font-family:Verdana;
+}
+h1{
+    font-family:TimesNewRoman;
+    color:rgb(170, 65, 4);
+}
+h2{
+    color:orangered;
+    
+    
+}
+body{
+    background-color:bisque;
+}
+h3, h4{
+    color:rgb(143, 53, 1);
+}
+h4{
+    font-style:italic;
+    font-size: larger;
+}
+.fall{
+    font-size: xx-large;
+    font-family:TimesNewRoman;
+    font-style:italic;
+}
+li, span{
+    color:rgb(170, 111, 0)
+    
+}
+span{
+    font-style:oblique;
+}
+img, iframe{
+    border:3px dashed;
+    color:rgb(145, 60, 11);
+}

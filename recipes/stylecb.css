@@ -1,0 +1,71 @@
+
+
+img{
+    Width:300px;
+    Height:200px;
+    border:double;
+    border-width: 10px;
+    border-color: chocolate;
+}
+
+body{
+    background-color: beige;
+}
+
+.title{
+    font-family: cursive;
+    color:brown;
+}
+
+.orange{
+    color:orange;
+    border:double;
+    border-width:8px;
+    border-color:chocolate;
+    background-color:brown;
+}
+
+.brown{
+    color:brown;
+    border:double;
+    border-width:8px;
+    border-color:Chocolate;
+    background-color:darksalmon;
+    
+}
+
+
+.ingredients{
+    border:double;
+    border-width:8px;
+    border-color:chocolate;
+    font-family:fantasy;
+    background-color:orange;
+}
+
+#steps{
+    border:double;
+    border-width:8px;
+    border-color:brown;
+    background-color:chocolate;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-family:sans-serif;
+    border:double;
+    border-width:8px;
+    border-color: brown;
+    background-color:saddlebrown;
+    
+    
+}
+
+.link{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+

@@ -1,0 +1,74 @@
+body{
+    background-color:rgb(160, 160, 160) ;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+.recipe{
+    display: inline-block;
+    font-family: cursive;
+    color:rgb(255, 255, 255);
+    background-color: rgb(88, 82, 82);
+    padding-right: 10px;
+    border-color:rgba(216, 226, 127, 0.623);
+    border-style:double;
+    border-width:8px;
+}
+.instructions{
+    display: inline-block;
+    color:rgb(255, 255, 255);
+    background-color: rgb(88, 82, 82);
+    line-height: 150%;
+    border-color:rgba(216, 226, 127, 0.623);
+    border-style:double;
+    border-width:8px;
+    font-family: cursive;
+}
+b{
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+}
+p{
+    font-size: 5px;
+    font-family: cursive;
+}
+#story{
+    display: inline-block;
+    color:rgb(255, 255, 255);
+    background-color: rgb(88, 82, 82);
+    line-height: 150%;
+    padding:10px;
+    border-color:rgba(216, 226, 127, 0.623);
+    border-style:double;
+    border-width:8px;
+    font-family: cursive;
+    font-weight: 100;
+}
+iframe{
+    border-color:rgba(216, 226, 127, 0.623);
+    border-style:double;
+    border-width:8px;
+    background-color: rgb(88, 82, 82);
+}
+img{
+    border-color:rgba(216, 226, 127, 0.623);
+    border-style:double;
+    border-width:8px;
+    background-color: rgb(88, 82, 82);
+    filter: grayscale(99%);
+}
+li:hover{
+    font-size: 20px;
+    color:black;
+    transition: 0.5s;
+    
+}
+img:hover{
+    filter:grayscale(0%);
+    transition:0.5s;
+}
+marquee{
+    font-size:10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
