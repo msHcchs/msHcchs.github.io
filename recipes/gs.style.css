@@ -1,0 +1,17 @@
+h1{
+    font-family:Arial;
+    font-weight: bold;
+    text-align: center;
+    color:violet;
+}
+
+body{
+    background:LightYellow;
+}
+
+h2,h3{
+    color:black;
+    border-width:2px;
+    border-style:dashed;
+    border-color:dodgerblue;
+}
