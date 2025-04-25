@@ -1,0 +1,14 @@
+﻿body
+{
+    
+}
+#homePhoto {
+    height: 700px;
+    display:block;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align:center;
+}
